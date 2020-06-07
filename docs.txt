@@ -1,2 +1,4 @@
+para instalar projeto >> yarn install
+
 para rodar o backend >> yarn dev 
 para rodar o front end >> yarn start ( necessário rodar o servidor backend )
